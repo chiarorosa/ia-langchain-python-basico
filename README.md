@@ -53,6 +53,7 @@ Ferramentas (Tools)
 - https://python.langchain.com/docs/integrations/tools/ddg/
 - https://python.langchain.com/docs/integrations/tools/google_serper/
 - https://serper.dev/api-key
+- https://python.langchain.com/docs/integrations/tools/python/
 
 ## Uso do `python-decouple`
 
