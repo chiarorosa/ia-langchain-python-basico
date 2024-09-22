@@ -4,7 +4,8 @@
 
 - Python 3.x
 - langchain
--
+- langchain-google-genai
+- python-decouple
 
 ## Configuração do Ambiente Virtual
 
