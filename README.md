@@ -3,9 +3,14 @@
 ## Requisitos
 
 - Python 3.x
+- Google AI Studio APIkey
 - langchain
 - langchain-google-genai
 - python-decouple
+- langchain_community
+- langchain_experimental
+- duckduckgo-search
+- Serper.dev APIkey
 
 ## Configuração do Ambiente Virtual
 
@@ -33,7 +38,21 @@
    pip install python-decouple
    pip install langchain
    pip install langchain-google-genai
+   pip install langchain_community
+   pip install langchain_experimental
+   pip install duckduckgo-search
+   pip install wikipedia
    ```
+
+## Documentação Langchain
+
+Ferramentas (Tools)
+
+- https://python.langchain.com/docs/how_to/#tools
+- https://python.langchain.com/docs/integrations/tools/
+- https://python.langchain.com/docs/integrations/tools/ddg/
+- https://python.langchain.com/docs/integrations/tools/google_serper/
+- https://serper.dev/api-key
 
 ## Uso do `python-decouple`
 
