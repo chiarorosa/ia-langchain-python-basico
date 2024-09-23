@@ -11,6 +11,8 @@
 - langchain_experimental
 - duckduckgo-search
 - Serper.dev APIkey
+- beautifulsoup4
+- lxml
 
 ## Configuração do Ambiente Virtual
 
@@ -42,6 +44,8 @@
    pip install langchain_experimental
    pip install duckduckgo-search
    pip install wikipedia
+   pip install beautifulsoup4
+   pip install lxml
    ```
 
 ## Documentação Langchain
