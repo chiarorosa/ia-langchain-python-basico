@@ -63,6 +63,7 @@ resultado = executor.invoke({
 
 print(resultado.get('output'))
 
+## Faça a pergunta: "Qual livro vendeu mais unidades?"
 ## Faça a pergunta: "Qual é o livro mais bem avaliado e caro da loja?"
 ## Faça a pergunta: "Tenho algum livro cadastrado em duplicidade no sistema?"
 ## Faça a pergunta: "Temos livros do Harry Potter disponíveis para venda? Quais são eles?"
