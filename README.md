@@ -58,6 +58,7 @@ Ferramentas (Tools)
 - https://python.langchain.com/docs/integrations/tools/google_serper/
 - https://serper.dev/api-key
 - https://python.langchain.com/docs/integrations/tools/python/
+- https://smith.langchain.com/hub
 
 ## Uso do `python-decouple`
 
